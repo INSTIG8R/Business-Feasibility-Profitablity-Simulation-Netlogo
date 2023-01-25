@@ -1,0 +1,26 @@
+"export-plot data (NetLogo 6.3.0)"
+"demo2.nlogo"
+"12/24/2022 12:45:12:117 +0600"
+
+"MODEL SETTINGS"
+"num-houses","day-length","quality-cost","bankruptcy?","world-customers","service-cost","layout-cost"
+"20","30","0.1","true","311","0.04","20"
+
+"""Disgruntled Customers"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","10","0","50","true","""custs.""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""custs.""","true","0","1","105","8"
+
+"""custs."""
+"x","y","color","pen down?"
+"0","0","105","true"
+"1","1","105","true"
+"2","12","105","true"
+"3","4","105","true"
+"4","3","105","true"
+"5","3","105","true"
+"6","6","105","true"
+"7","4","105","true"
+"8","15","105","true"
